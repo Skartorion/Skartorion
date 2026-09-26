@@ -1,5 +1,5 @@
 ## Meow Meow Meow
-skartorion@projectsegfau.lt on xmpp
+
 
 <!--
 **Skartorion/Skartorion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
