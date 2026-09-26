@@ -1,4 +1,6 @@
-## Hi there 👋
+## Meow Meow Meow
+mail for inquires at skartorion@proton.me
+-# or contact via matrix: skartorion@projectsegfau.lt
 
 <!--
 **Skartorion/Skartorion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
